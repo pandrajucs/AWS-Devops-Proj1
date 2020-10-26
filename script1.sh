@@ -1,0 +1,3 @@
+#!/bin/bash
+curl https://get.docker.com/ | bash
+echo 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDhhSE36k8SsJchlGb3Jg8MWvHsN9se8FQnZFjmaMo3fLojPe1EnWRt14VeeANBloirpM9vdP8FIzOqgKvFNku80/PiBJ64skjY8jf5icRfDOakGNQxF72El2VR/TMDEFi46YaSgxUh1/sW42o/2XlKv+ISka8qmRMp29JeO1z6WcNJAEUElx1eyN2jyGkvYAbFpDRLIYOSr571io7nBJefh/sXNFSuGnfCX079olguAey10yXIsq8qTe3Jv1gkkMV5BFdD5pdFTc7Lgnk0ER24nAu49keZBKfPw2RtQCThsTEbvJrRZEyNxM0u3OJsP1x2KTN6y2b1LoTO8qwPFIOP root@ip-10-1-1-180'  >> ~/.ssh/authorized_keys
